@@ -1,0 +1,30 @@
+.button_div {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.good,
+.neutral,
+.bad {
+  padding: 10px 25px;
+  border: none;
+  background-color: green;
+  color: rgb(235, 226, 226);
+  border-radius: 5px;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.good:hover {
+  background-color: rgb(216, 118, 19);
+}
+
+.neutral:hover {
+  background-color: rgb(216, 118, 19);
+}
+
+.bad:hover {
+  background-color: rgb(216, 118, 19);
+}

@@ -1,0 +1,64 @@
+.statistics {
+  min-width: 500hv;
+  background-color: green;
+  border-radius: 6px;
+}
+.statistics_good {
+  padding-top: 15px;
+}
+.statistics_good,
+.statistics_neutral,
+.statistics_bad,
+.statistics_total,
+.statistics_featback {
+  margin: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.statistics_featback {
+  padding-bottom: 30px;
+}
+.statistics_good:hover,
+.statistics_good:focus {
+  color: rgb(255, 234, 0);
+}
+.statistics_neutral:hover,
+.statistics_neutral:focus {
+  color: rgb(255, 234, 0);
+}
+.statistics_bad:hover,
+.statistics_bad:focus {
+  color: rgb(255, 234, 0);
+}
+.statistics_total:hover,
+.statistics_total:focus {
+  color: rgb(255, 234, 0);
+}
+.statistics_featback:hover,
+.statistics_featback:focus {
+  color: rgb(255, 234, 0);
+}
+.span_good,
+.span_neutral,
+.span_bad,
+.span_total,
+.span_featback {
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+.span_good {
+  color: rgb(255, 234, 0);
+}
+.span_neutral {
+  color: rgb(255, 234, 0);
+}
+.span_bad {
+  color: rgb(255, 234, 0);
+}
+.span_total {
+  color: rgb(255, 234, 0);
+}
+.span_featback {
+  color: rgb(255, 234, 0);
+}
